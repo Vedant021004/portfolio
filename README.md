@@ -29,7 +29,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Vedant Kapil"
         self.location    = "🇮🇳 India"
         self.role        = "Python · DevOps · LLM Engineer"
         self.languages   = ["Python", "Bash", "YAML", "Go"]
