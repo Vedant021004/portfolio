@@ -104,21 +104,21 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=7b61ff&text_color=c9d1d9&ring_color=00f5d4" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=7b61ff&text_color=c9d1d9&ring_color=00f5d4" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=7b61ff&dates=64748b" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=7b61ff&dates=64748b" />
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&color=00f5d4&line=7b61ff&point=ff6b6b&area=true&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=react-dark&bg_color=0d1117&color=00f5d4&line=7b61ff&point=ff6b6b&area=true&hide_border=true" />
 
 </div>
 
@@ -128,7 +128,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -156,9 +156,9 @@ me.say_hi()
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 > **Tip:** Enable the snake animation by adding this GitHub Action to your profile repo 👇
@@ -172,7 +172,7 @@ me.say_hi()
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake.svg" />
 </p>
-# .github/workflows/snake.yml
+.github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
