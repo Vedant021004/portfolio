@@ -1,81 +1,72 @@
-# 🚀 Vedant Kaipil | Building the Future with Code & AI
+<!-- FUTURISTIC HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=30&fontColor=ffffff" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=300&section=header&text=VEDANT%20KAIPIL&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20DevOps%20%7C%20Builder&descAlignY=55"/>
+</p>
 
----
+<!-- TYPING ANIMATION -->
 
-## 🧠 About Me
-
-🔭 **Currently Building**
-
-* Python-based automation systems
-* Real-world problem-solving projects
-* Exploring **LLM pipelines (RAG systems)**
-
-👯 **Open to Collaborate**
-
-* Open-source Python projects
-* AI / LLM-based tools & applications
-
-🤝 **Looking to Learn**
-
-* Cloud deployment (**AWS, Docker**)
-* Backend scaling & system design
-
-🌱 **Learning Journey**
-
-* Python (intermediate → advanced)
-* LLM frameworks (**LangChain, Vector DBs**)
-* DevOps (**Linux, Git, CI/CD**)
-
-💬 **Ask Me About**
-
-* Python fundamentals
-* Git & version control
-* Beginner AI concepts
-
-⚡ **Fun Fact**
-
-> I believe in *learning by building* — small projects → big skills 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Learning+DevOps+Like+a+Pro;Exploring+LLMs+%26+RAG;Turning+Ideas+Into+Reality" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 SYSTEM PROFILE
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/V3D)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vedantkp79@gmail.com)
+```id="sys001"
+Name: Vedant Kaipil
+Role: Developer → AI Engineer → DevOps Architect
+Focus: Scalable Systems + Intelligent Applications
+Philosophy: Learn → Build → Break → Improve
+```
 
 ---
 
-## 🧰 Tech Arsenal
+# ⚡ CURRENT OPERATIONS
+
+```id="ops002"
+[✓] Python Automation Systems
+[✓] LLM + RAG Pipelines
+[✓] Backend Logic & Optimization
+[⟳] Cloud Deployment (AWS, Docker)
+[⟳] DevOps (CI/CD, Linux Systems)
+```
+
+---
+
+# 🌐 NETWORK CONNECT
 
 <p align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<a href="https://instagram.com/V3D">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
+</a>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+<a href="mailto:vedantkp79@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🧰 TECH STACK MATRIX
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&theme=tokyonight&hide_border=true&show_icons=true" height="160"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Vedant021004&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,linux,docker,aws,git,github,vscode&theme=dark" />
+
+</p>
+
+---
+
+# 📊 SYSTEM ANALYTICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&theme=tokyonight&hide_border=true&show_icons=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Vedant021004&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -87,41 +78,66 @@
 
 ---
 
-## 🏆 Achievements
+# 🧬 DEVELOPMENT DNA
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=tokyonight&no-frame=true&no-bg=true"/>
-
-</p>
-
----
-
-## 🔥 Current Focus
-
-```id="future01"
-- Building AI-powered applications
-- Learning DevOps like a developer + operator
-- Creating scalable backend systems
-- Exploring LLM + RAG pipelines
+```id="dna003"
+- Problem Solver First, Coder Second
+- Builds Practical Systems, Not Just Theory
+- Obsessed With Clean Logic & Efficiency
+- Always Learning, Always Iterating
 ```
 
 ---
 
-## 🚀 Vision
+# 🧪 CURRENT EXPERIMENTS
 
-> "Not just writing code — building systems that solve real problems at scale."
+```id="exp004"
+→ RAG Pipelines with Vector Databases
+→ AI-powered Tools & Automation
+→ Backend System Design
+→ DevOps Integration in Projects
+```
 
 ---
 
-## 👁️ Profile Views
+# 🏆 ACHIEVEMENT MATRIX
 
 <p align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=Vedant021004&icon=5&color=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=matrix&no-frame=true&no-bg=true&margin-w=4"/>
 
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+# 🚀 FUTURE ROADMAP
+
+```id="road005"
+[1] Master Backend Systems
+[2] Deploy AI Applications on Cloud
+[3] Integrate DevOps Pipelines
+[4] Build Scalable AI Products
+[5] Contribute to Open Source
+```
+
+---
+
+# 🧠 CORE MINDSET
+
+> “I don’t just learn technologies — I build systems that solve real-world problems.”
+
+---
+
+# 👁️ SYSTEM TRAFFIC
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Vedant021004&icon=6&color=12"/>
+</p>
+
+---
+
+<!-- FUTURISTIC FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
+</p>
