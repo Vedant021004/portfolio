@@ -169,6 +169,9 @@ me.say_hi()
 <summary>🐍 <b>Click here — Snake animation GitHub Action</b></summary>
 
 ```yaml
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake.svg" />
+</p>
 # .github/workflows/snake.yml
 name: Generate Snake Animation
 
