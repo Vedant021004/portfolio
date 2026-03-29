@@ -14,9 +14,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0e1117&labelColor=00f5d4&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Vedant021004&style=for-the-badge&color=0e1117&labelColor=00f5d4&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=0e1117&labelColor=7b61ff&label=FOLLOWERS)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/Vedant021004?style=for-the-badge&color=0e1117&labelColor=7b61ff&label=FOLLOWERS)](https://github.com/Vedant021004)
 &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=0e1117&labelColor=ff6b6b&label=STARS)](https://github.com/yourusername)
 
@@ -55,7 +55,7 @@ me.say_hi()
 
 <div align="center">
 
-### 🐍 Python Ecosystem
+### 🐍 Python Ecosystem IN PROCESS...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
@@ -63,7 +63,7 @@ me.say_hi()
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### 🤖 LLM / AI
+### 🤖 LLM / AI LEARNING...
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
